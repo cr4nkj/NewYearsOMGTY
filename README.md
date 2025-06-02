@@ -155,7 +155,7 @@
     <div class="card" id="card">
         <!-- Логотип ОмГТУ -->
         <a href="https://www.omgtu.ru/" target="_blank">
-        <img src="C:\Users\хуй с горы\Desktop\кр\image\omgtu.png" alt="Логотип ОмГТУ" class="omgtu-logo">
+        <img src="omgtu.png" alt="Логотип ОмГТУ" class="omgtu-logo">
         </a>
         
         <!-- Название университета -->
@@ -183,7 +183,7 @@
     <div class="card hidden" id="surprise">
         <!-- Логотип ОмГТУ -->
         <a href="https://www.omgtu.ru/" target="_blank">
-        <img src="C:\Users\хуй с горы\Desktop\кр\image\omgtu.png" alt="Логотип ОмГТУ" class="omgtu-logo">
+        <img src="omgtu.png" alt="Логотип ОмГТУ" class="omgtu-logo">
         </a>
         
         <!-- Заголовок сюрприза -->
